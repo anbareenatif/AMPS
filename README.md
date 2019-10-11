@@ -1,2 +1,0 @@
-# AMPS
-Created with CodeSandbox
